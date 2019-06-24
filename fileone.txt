@@ -1,1 +1,3 @@
 this is my first file
+this is file used for git repositorary
+we are using this file for learing git
