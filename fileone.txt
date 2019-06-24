@@ -1,2 +1,8 @@
 this is my first file
+
 file is used for read purpose of git
+ merged common ancestors
+
+this is file used for git repositorary
+we are using this file for learing git
+>>>>>>> aa9aaaaab5b0158d6af0754e3aa6f739557e3680
